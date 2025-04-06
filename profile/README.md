@@ -14,13 +14,12 @@ Promo Codes are special Alphanumeric codes that provides discounts or special of
 here are some of the latest promocodes tested and working
 
 ------------------------------------------------------------------------------------------------------
-Promo code                    |  Discounted Details                        | Expiration date of coupon
+| Promo code                    |  Discounted Details                        | Expiration date of coupon |
 ------------------------------------------------------------------------------------------------------
-JUSTDASHIT | $5 off with your first order min order $15 or more            | Varies by location
-30%OFF     | 30% off on orders over 20                                     | expires on 12/31/2025
-WOW50OFF3  | 50% off your next three delivery orders (minimum subtotal of $15) Exclusive | Expires on 4/11/2025
-NBA50      | 50% off on your next oder (IE second order) up to $10 off after NBA Plaver scores 50 or more points in a game | VAlid on the day after game
------------------------------------------------------------------------------------------------------------------------------
+| JUSTDASHIT | $5 off with your first order min order $15 or more            | Varies by location |
+| 30%OFF     | 30% off on orders over 20                                     | expires on 12/31/2025 |
+| WOW50OFF3  | 50% off your next three delivery orders (minimum subtotal of $15) Exclusive | Expires on 4/11/2025 |
+| NBA50      | 50% off on your next oder (IE second order) up to $10 off after NBA Plaver scores 50 or more points in a game | VAlid on the day after game |
 
 ## How to use a doordash Promo code
 
