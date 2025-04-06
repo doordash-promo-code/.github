@@ -4,9 +4,35 @@ Who dosent love a good deal, especially when it involves getting your favorite m
 It also Offers various Promocodes to help you save more on your food orders. In this update we have provided some useful doordash promocodes to save more on your ouders. latest make the most from 
 these codes.
 
-![image](https://github.com/user-attachments/assets/ff7552a4-c2bb-48f5-a21e-1f51276a78f5)
+![image](https://github.com/user-attachments/assets/085186be-61c1-4fb1-8ad7-a41412a61f84)
 
-What are dool dash promo codes 
+## What are dool dash promo codes? 
+Promo Codes are special Alphanumeric codes that provides discounts or special offers when applied to your order. They can grant you free delivery, percentage of discounts or fixed amount of savings. using these codes is a smart way to enjoy your meals with discounted prices.
+
+## Current & UPDATED DoorDash Promo codes
+
+here are some of the latest promocodes tested and working
+
+------------------------------------------------------------------
+Promo code |  Discounted Details   | Expiration date of coupon
+------------------------------------------------------------------
+JUSTDASHIT | $5 off with your first order min order $15 or more | Varies by location
+30%OFF     | 30% off on orders over 20  | expires on 12/31/2025
+WOW50OFF3  | 50% off your next three delivery orders (minimum subtotal of $15) Exclusive | Expires on 4/11/2025
+NBA50      | 50% off on your next oder (IE second order) up to $10 off after NBA Plaver scores 50 or more points in a game | VAlid on the day after game
+
+
+## How to use a doordash Promo code
+
+Applying a promo code to your doordash orders is very simple process:
+
+1. Add items to your cart: browse through doordash extensive restorant options and add your desired items to card.
+2. proceed to checkout: once you have finalized yoru selection. click on the cart icon and select "checkout" option.
+3. Enter the promo code: In the "paynent" section look for "add promo code" option
+4. Apply the code: Enter your Promo code and click "Apply". Immediatly your discount will be applied to order summery.
+
+Note: Promocodes are typically case-sensitive, you may have some expiration dates and times or specific terms and condtions. always check validity beforeuse.
+
 <!--
 
 **Here are some ideas to get you started:**
