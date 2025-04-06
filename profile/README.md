@@ -4,7 +4,7 @@ Who dosent love a good deal, especially when it involves getting your favorite m
 It also Offers various Promocodes to help you save more on your food orders. In this update we have provided some useful doordash promocodes to save more on your ouders. latest make the most from 
 these codes.
 
-![image](https://github.com/user-attachments/assets/085186be-61c1-4fb1-8ad7-a41412a61f84)
+![image](https://github.com/user-attachments/assets/757fdc7f-1e36-419c-ab8b-dedf2909184b)
 
 ## What are dool dash promo codes? 
 Promo Codes are special Alphanumeric codes that provides discounts or special offers when applied to your order. They can grant you free delivery, percentage of discounts or fixed amount of savings. using these codes is a smart way to enjoy your meals with discounted prices.
@@ -21,6 +21,8 @@ here are some of the latest promocodes tested and working
 | WOW50OFF3  | 50% off your next three delivery orders (minimum subtotal of $15) Exclusive | Expires on 4/11/2025 |
 | NBA50      | 50% off on your next oder (IE second order) up to $10 off after NBA Plaver scores 50 or more points in a game | VAlid on the day after game |
 
+Note: These promo codes are subject to change and may not be avaliable in all areas. It's recommedend to verify corrent codes with in DOOR dash APP or WEbsite before placing orders.
+
 ## How to use a doordash Promo code
 
 Applying a promo code to your doordash orders is very simple process:
@@ -31,6 +33,7 @@ Applying a promo code to your doordash orders is very simple process:
 4. Apply the code: Enter your Promo code and click "Apply". Immediatly your discount will be applied to order summery.
 
 Note: Promocodes are typically case-sensitive, you may have some expiration dates and times or specific terms and condtions. always check validity beforeuse.
+
 
 <!--
 
