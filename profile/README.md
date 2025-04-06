@@ -15,7 +15,7 @@ here are some of the latest promocodes tested and working
 
 ------------------------------------------------------------------------------------------------------
 | Promo code                    |  Discounted Details                        | Expiration date of coupon |
-------------------------------------------------------------------------------------------------------
+|-------------------------------|--------------------------------------------|------------------------|
 | JUSTDASHIT | $5 off with your first order min order $15 or more            | Varies by location |
 | 30%OFF     | 30% off on orders over 20                                     | expires on 12/31/2025 |
 | WOW50OFF3  | 50% off your next three delivery orders (minimum subtotal of $15) Exclusive | Expires on 4/11/2025 |
