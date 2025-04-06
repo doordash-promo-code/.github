@@ -34,6 +34,19 @@ Applying a promo code to your doordash orders is very simple process:
 
 Note: Promocodes are typically case-sensitive, you may have some expiration dates and times or specific terms and condtions. always check validity beforeuse.
 
+## Additional ways to save $ with DoorDash
+beyond promo codes, doordash offers several programs and tips to save more on your orders:
+* Dashpass subscription: For a simple monthly fee, Dashpass members can enjoy benifits like $0 delivery feels and festive and occasional exclusive discounts.
+* Students discounts: Verified students with valid id, can now recive a 25% discount on orders. Signup through platforms like studentbeans to get this offer.
+* Free delivery on first orders: new users can enjoy free delivery on their first oders by signing up with doordash account.
+* order during off peak hours: Ordering during less busy times can help you avoid peak delivery fee and potential surcharges.
+
+## Tips to increase your savings with promo codes of Doordash
+ * stack promotions: compbine promo codes with other offers like dash pass benifits to increase discounts
+ * stay updated: regularly check doordash app or website for the latest promocodes and deals.
+ * refer and earn: Invite or introduce your friends to join Doordash using your referral code to earn credits for future orders.
+
+by staying informed and utilizing these promo codes and strategies, you can enjoy your favorate meals while keeping your expenses in check. Happy Dining..!! 
 
 <!--
 
